@@ -1,4 +1,3 @@
-# HashHacks3_jsk1961998935
 # Introduction
 <br>
 
@@ -21,25 +20,25 @@ The main motive of our system is to provide a safer environment for women and im
 <br>
 
 # Flowchart of our Proposed System
-<img src="https://github.com/DivyanshMalhotra/HashHacks3_jsk1961998935/blob/master/Screenshots/Flowchart.jpeg" height="700" width="900" >
+<img src="https://github.com/harshil2712/Safeline/blob/master/Screenshots/Flowchart.jpeg" height="700" width="900" >
 <br>
 
 # Screenshots of the android application
 <br>
 
-<img src="https://github.com/DivyanshMalhotra/HashHacks3_jsk1961998935/blob/master/Screenshots/a.png" align="left" height="400" width="250" >
-<img src="https://github.com/DivyanshMalhotra/HashHacks3_jsk1961998935/blob/master/Screenshots/b.png" align="left" height="400" width="250" >
-<img src="https://github.com/DivyanshMalhotra/HashHacks3_jsk1961998935/blob/master/Screenshots/c.png" height="400" width="250" >
+<img src="https://github.com/harshil2712/Safeline/blob/master/Screenshots/a.png" align="left" height="400" width="250" >
+<img src="https://github.com/harshil2712/Safeline/blob/master/Screenshots/b.png" align="left" height="400" width="250" >
+<img src="https://github.com/harshil2712/Safeline/blob/master/Screenshots/c.png" height="400" width="250" >
 <br>
 
 # Screenshots of the Police Station GUI
 <br>
 
-<img src="https://github.com/DivyanshMalhotra/HashHacks3_jsk1961998935/blob/master/Screenshots/Cameracapture.jpeg" align="left" height="400" width="400" >
+<img src="https://github.com/harshil2712/Safeline/blob/master/Screenshots/Cameracapture.jpeg" align="left" height="400" width="400" >
 <br>
 
 # Screenshots of the Audio Variations in Audio Alerts
 <br>
-<img src="https://github.com/DivyanshMalhotra/HashHacks3_jsk1961998935/blob/master/Screenshots/Spectogram.jpeg" height="400" width="400" >
+<img src="https://github.com/harshil2712/Safeline/blob/master/Screenshots/Spectogram.jpeg" height="400" width="400" >
 <br>
 ### This system will certainly help in increasing the safety and security of people as well as improvement in response time. 
