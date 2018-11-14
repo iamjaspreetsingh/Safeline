@@ -1,5 +1,5 @@
 # Introduction
-<br>
+
 
 ## Our solution for Hash Hack
 
